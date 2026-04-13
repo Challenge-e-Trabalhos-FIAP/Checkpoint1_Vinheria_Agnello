@@ -20,7 +20,7 @@ O sistema opera da seguinte forma:
 
 | Quantidade | Componente               |
 |:----------:|--------------------------|
-| 1          | Placa Arduino ATmega 328P |
+| 1          | Placa Arduino UNO ATmega 328P |
 | 1          | Protoboard 800 pinos      |
 | 1          | Display LCD 16x2          |
 | 1          | Sensor de luminosidade (LDR) — pino A0 |
