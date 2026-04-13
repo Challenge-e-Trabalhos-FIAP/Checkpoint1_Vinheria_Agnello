@@ -112,6 +112,12 @@ loop()
 
 Projeto desenvolvido para a disciplina de **Edge Computing & Computer Systems** — FIAP.
 
+|       nome:               |       RM:      |
+|---------------------------|----------------|
+|GIANLUCA ANTONICCI         |     570081     |
+|MATHEUS MARCONDES ARAÚJO   |     573152     |
+|Enzo Vierira Provenzano    |     569696     |
+|João Vitor Rodrigues Costa |     569510     |
 ---
 
 > *"A luz é inimiga do bom vinho. Proteja cada garrafa."*
