@@ -20,7 +20,7 @@ O sistema opera da seguinte forma:
 
 | Quantidade | Componente               |
 |:----------:|--------------------------|
-| 1          | Placa Arduino UNO ATmega 328P |
+| 1          | Placa Arduino ATmega 328P |
 | 1          | Protoboard 800 pinos      |
 | 1          | Display LCD 16x2          |
 | 1          | Sensor de luminosidade (LDR) — pino A0 |
@@ -76,23 +76,6 @@ Os valores lidos pelo sensor analógico (0–1023) são convertidos para porcent
 5. Faça o upload do código para a placa.
 6. Ao iniciar, o display exibirá a mensagem de boas-vindas **"Boas-Vindas! / Vinheria Agnello"** por 4 segundos.
 7. Em seguida, o monitoramento começa automaticamente, exibindo o percentual de luminosidade no display e acionando os alertas conforme necessário.
-
----
-
-## 📂 Estrutura do Código
-
-```
-setup()
-├── Inicializa o display LCD e exibe mensagem de boas-vindas
-├── Configura os pinos de saída (LEDs e buzzer)
-└── Inicia a comunicação serial (9600 bps)
-
-loop()
-├── Lê o valor do sensor de luminosidade (A0)
-├── Converte o valor para porcentagem (map 0–1023 → 0–100%)
-├── Exibe o valor no Serial Monitor e no LCD
-└── Aciona LED e buzzer conforme os limites definidos
-```
 
 ---
 
