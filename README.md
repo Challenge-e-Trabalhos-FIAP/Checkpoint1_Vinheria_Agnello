@@ -29,7 +29,7 @@ O sistema opera da seguinte forma:
 | 1          | LED Amarelo               |
 | 1          | LED Vermelho              |
 | 1          | Buzzer                    |
-| 3          | Resistor de 1kΩ           |
+| 3          | Resistor de 110Ω          |
 | 1          | Resistor de 300Ω          |
 | 27         | Jumpers macho x macho     |
 
