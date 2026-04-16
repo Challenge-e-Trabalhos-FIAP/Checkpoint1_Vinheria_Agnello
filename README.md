@@ -24,13 +24,13 @@ O sistema opera da seguinte forma:
 | 1          | Protoboard 800 pinos      |
 | 1          | Protoboard 400 pinos      |
 | 1          | Display LCD 16x2          |
-| 1          | Sensor de luminosidade (LDR) — pino A0 |
+| 1          | Sensor de luminosidade (LDR)|
 | 1          | LED Verde                 |
 | 1          | LED Amarelo               |
 | 1          | LED Vermelho              |
 | 1          | Buzzer                    |
-| 3          | Resistor de 110Ω          |
-| 1          | Resistor de 300Ω          |
+| 3          | Resistor de 1kΩ           |
+| 2          | Resistor de 330Ω          |
 | 27         | Jumpers macho x macho     |
 
 ---
@@ -82,11 +82,11 @@ Os valores lidos pelo sensor analógico (0–1023) são convertidos para porcent
 
 ## 🖼️ Diagrama do Circuito
 
-![Diagrama do Circuito Arduino](diagrama_circuito.png)
+![alt text](diagrama_circuito.png)
 
 ## 🖼️ Diagrama Esquemático
 
-![Diagrama Esquemático](diagrama_esquematico.png)
+![alt text](diagrama_esquematico.png)
 
 
 
