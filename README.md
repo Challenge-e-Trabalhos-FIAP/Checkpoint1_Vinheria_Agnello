@@ -84,6 +84,15 @@ Os valores lidos pelo sensor analógico (0–1023) são convertidos para porcent
 
 ![Diagrama do Circuito Arduino](diagrama_circuito.png)
 
+## 🖼️ Diagrama Esquemático
+
+![Diagrama Esquemático](diagrama_esquematico.png)
+
+
+
+---
+
+
 |                                                  Link do diagrama                                                   |
 |---------------------------------------------------------------------------------------------------------------------|
 |https://www.tinkercad.com/things/aSuI1tmOPvF-checkpoint1-pronto?sharecode=636DqpF8hI5QYuFA9-YNbdCyn-g1G-2YinjtGQw_s_U|
