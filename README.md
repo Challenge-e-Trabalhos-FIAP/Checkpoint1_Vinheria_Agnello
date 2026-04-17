@@ -99,6 +99,10 @@ Os valores lidos pelo sensor analógico (0–1023) são convertidos para porcent
 
 ---
 
+|                                                 Vídeo de explicação                                                 |
+|---------------------------------------------------------------------------------------------------------------------|
+|https://youtu.be/qaIUkdj66ZM                                                                                         |
+---
 ## 📦 Dependências
 
 - [LiquidCrystal](https://www.arduino.cc/reference/en/libraries/liquidcrystal/) — Biblioteca nativa do Arduino IDE para controle do display LCD 16x2.
